@@ -7,10 +7,10 @@
 
 --- '( A B S T R A C T ) -------------------------------------------------------
 
-Binomial-heap  is a  compact and  succint implementation  of binomial  heap data
-structure[1]  in  Common  Lisp  programming language.  Data  structure  performs
-insertion, extremum access, extremum extraction, and union operations in O(logn)
-time.
+Binomial-heap is a compact and  succint implementation of the binomial heap data
+structure[1] in  Common Lisp  programming language. Insertion,  extremum access,
+extremum extraction, and union operations can be performed on the data structure
+in O(logn) time.
 
 [1] http://en.wikipedia.org/wiki/Binomial_heap
 
